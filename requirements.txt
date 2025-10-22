@@ -1,0 +1,14 @@
+numpy
+pandas
+numba
+matplotlib
+pypfopt
+statsmodels
+scipy
+seaborn
+shiny
+shinywidgets
+plotly
+quantstats
+pandas_datareader
+python-dateutil
