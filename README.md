@@ -1,4 +1,4 @@
-Regime-Switching Goals-Based Investing Dashboard
+### Regime-Switching Goals-Based Investing Dashboard
 
 This repository contains an interactive Shiny for Python web application for simulating and visualizing portfolio performance under different investment strategies — including Dynamic Programming with Regime Switching (GBI), Mean-Variance Optimization (MVO), and Equal Weighting.
 
